@@ -1,0 +1,12 @@
+<mj-section >
+  <mj-column >
+    <mj-navbar  base-url="https://mjml.io" ico-color="#ffffff">
+      <mj-navbar-link padding-top="30px" href="/gettings-started-onboard" color="#ffffff">
+        <img width="50%"src="https://res.cloudinary.com/dubfkg3sa/image/upload/v1526405593/instagram-social-outlined-logo.png"></img></mj-navbar-link>
+        <mj-navbar-link href="/try-it-live" color="#ffffff"><img width="50%"src="https://res.cloudinary.com/dubfkg3sa/image/upload/v1526405593/facebook-logo-outline.png"></mj-navbar-link>
+        <mj-navbar-link href="/templates" color="#ffffff"><img width="50%"src="https://res.cloudinary.com/dubfkg3sa/image/upload/v1526405593/twitter-social-outlined-logo.png"></mj-navbar-link>
+          </mj-column>
+          <mj-column>
+        <mj-image  src="https://jogg.in/assets/images/blue-logo.png"></mj-image>
+  </mj-column>
+</mj-section>
