@@ -1,4 +1,4 @@
-<mj-section >
+<mj-section  >
   <mj-column >
     <mj-navbar  base-url="https://mjml.io" ico-color="#ffffff">
       <mj-navbar-link padding-top="30px" href="/gettings-started-onboard" color="#ffffff">
